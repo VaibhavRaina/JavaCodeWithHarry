@@ -11,6 +11,10 @@ public class Bp7 {
             System.out.println(x * y);
         };
         p1.action(2, 3);
-        p2.action(3, 4);
+       p2.action(3, 4);
     }
+
+
+
+    
 }

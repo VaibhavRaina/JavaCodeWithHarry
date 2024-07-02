@@ -24,6 +24,7 @@ public class Bp5 {
         } catch (MyException e) {
             System.out.println(e.toString());
         }
+        
     }
 
 }
